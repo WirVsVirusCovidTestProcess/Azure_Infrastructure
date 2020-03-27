@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "webappTestCenterName": {
+            "value": null
+        },
+        "backendFunctionAppName": {
+            "value": null
+        },
+        "webappTestProcessName": {
+            "value": null
+        },
+        "appServicePlanName": {
+            "value": null
+        },
+        "CosmoDbAccountName": {
+            "value": null
+        },
+        "sendgridEmailAccountName": {
+            "value": null
+        },
+        "sendgridEmailAccountPassword": {
+            "value": null
+        },
+        "sendgridAcceptMarketingEmails": {
+            "value": null
+        }
+    }
+}

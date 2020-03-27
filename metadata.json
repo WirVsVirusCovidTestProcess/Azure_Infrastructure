@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/WirVsVirusCovidTestProcess/Azure_Infrastructure/master/azuredeploy.json",
+    "type": "QuickStart",
+    "itemDisplayName": "#WirVsVirus TestProcess",
+    "description": "#WirVsVirus TestProcess infrastructure template.",
+    "summary": "",
+    "githubUsername": "boringguy",
+    "dateUpdated": "2020-03-27"
+  }
