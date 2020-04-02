@@ -191,12 +191,6 @@
                         "provisioningState": "Succeeded",
                         "failoverPriority": 0,
                         "isZoneRedundant": false
-                    },
-                    {
-                        "locationName": "North Europe",
-                        "provisioningState": "Succeeded",
-                        "failoverPriority": 1,
-                        "isZoneRedundant": false
                     }
                 ],
                 "capabilities": []
