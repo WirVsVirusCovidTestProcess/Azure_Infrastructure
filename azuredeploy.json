@@ -142,7 +142,7 @@
             "type": "Sendgrid.Email/accounts",
             "apiVersion": "2015-01-01",
             "name": "[parameters('sendgridEmailAccountName')]",
-            "location": "[variables('location')]",
+            "location": "West Europe",
             "plan": {
                 "name": "free",
                 "promotionCode": "",
